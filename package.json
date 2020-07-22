@@ -1,0 +1,16 @@
+{
+  "name": "trp4_xsa_commons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sap/xb-msg-amqp-v100": "^0.9.40",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
