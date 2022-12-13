@@ -11,6 +11,6 @@
   "dependencies": {
     "@sap/xb-msg-amqp-v100": "^0.9.40",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
